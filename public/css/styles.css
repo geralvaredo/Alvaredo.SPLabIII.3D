@@ -1,0 +1,305 @@
+
+header {
+    width:100%;
+    overflow:hidden;
+    background:#252932;
+    margin-bottom:20px;
+}
+
+
+
+.header {
+    width:90%;
+    height: 150px;
+    max-width:1000px;
+    margin-top: -40px;
+    margin-left: 140px;
+    overflow:hidden;
+}
+
+
+.logo{
+    color:#f2f2f2;
+    font-size:30px;
+    line-height:100px;
+    float:left;
+}
+
+header .logo {
+    color:#f2f2f2;
+    font-size:40px;
+    line-height:200px;
+    float:left;
+}
+
+header nav {
+    float:right;
+    line-height:200px;
+}
+
+header nav a {
+    display:inline-block;
+    color:#fff;
+    text-decoration:none;
+    padding:10px 20px;
+    line-height:normal;
+    font-size:20px;
+    font-weight:bold;
+    -webkit-transition:all 500ms ease;
+    -o-transition:all 500ms ease;
+    transition:all 500ms ease;
+}
+
+header nav a:hover {
+    background:#f56f3a;
+    border-radius:50px;
+}
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+
+}
+
+#iVacuna , #iRaza , #iMono{
+    width: 6%;
+    height: 6%;
+}
+
+
+
+#vacunas{
+}
+
+#divAnimal{
+    width: 50%;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid;
+    border-radius: 6px;
+    border-color: white;
+}
+
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+h5{
+    width: 100%;
+    color: white;
+    margin-bottom: 80px;
+}
+
+
+table{
+    border: solid 4px white;
+    width: 70%;
+    height: 90%;
+
+}
+
+.tabla{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.filtro{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#divPromedioRaza{
+    /*width: auto;
+    height: auto;*/
+    width: 800px;
+    height: 80px;
+    border: 4px solid;
+    border-radius: 12px;
+    border-color: white;
+}
+
+
+.tipoRaza{
+    margin-top: 10px;
+    padding-top: 4px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+tr{
+    width: 2040px;
+    height: 50px;
+    text-align: center;
+    padding-left: 10px;
+}
+
+tr:hover{
+    background-color: coral;
+}
+
+ th {
+     margin-left: 100px;
+     padding-left: 10px;
+     padding-right: 10px;
+     text-align: center;
+     /* padding-right: 50px;
+     text-align: center;
+      padding-left: 40px;*/
+
+}
+
+
+
+
+
+
+
+#frmAlta{
+    margin: auto;
+    width: 80%;
+    border: 3px solid rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 12px;
+    height: 50%;
+}
+
+
+.body{
+  background-color: #1d2124;
+}
+
+.cabecera{
+    background-color: orangered;
+}
+
+.alta{
+   width: 50%;
+   border-radius: 10%;
+}
+
+
+
+.botones{
+  border-radius: 12px;  
+  width: 20%;
+  margin-left: 15px;  
+  margin-top: 10px;
+  margin-right: 10px;
+  padding: 8px 8px; 
+  font-family: sans-serif;
+  color: white;
+  border-width: 2px;
+}
+
+#btnGuardar{  
+  background-color: MediumSeaGreen ;  
+}
+
+#btnEliminar{
+  background-color:#ff0000;    
+}
+
+#btnCancelar{
+  background-color: #3366ff;
+}
+
+.whiteLabel{
+  color: white;
+}
+
+
+
+
+.informacionAnuncio{
+    margin-left: 20px;
+}
+
+.spaceLeft{
+  margin-left: 20px;
+}
+
+.spaceRight{
+  margin-right : 20px;
+}
+
+
+.spaceTop{
+ margin-top: 20px;
+}
+
+.spaceBottom{
+  margin-bottom: 20px;
+}
+
+#btnGuardar:hover{
+  background-color: rgba(255,255,255,1);
+  border: 3px solid;
+  border-color: MediumSeaGreen;
+  font-family: sans-serif;
+  color:MediumSeaGreen; 
+}
+#btnEliminar:hover{
+  background-color: rgba(255,255,255,1);
+  border: 3px solid;
+  border-color: #ff0000;
+  font-family: sans-serif;
+  color: #ff0000;
+}
+
+#btnCancelar:hover{
+  background-color: rgba(255,255,255,1);
+  border: 3px solid;
+  border-color:  #3366ff;
+  font-family: sans-serif;
+  color:  #3366ff;
+}
+
+
+.orange-theme{
+    background-color: rgb(225, 102, 0 ) ;
+}
+
+.dark-theme{
+  background-color: black;
+
+}
+
+.gold-theme{
+    background-color: #EA880B;
+}
+
+.transaccion{
+    width: 100px;
+}
+
+footer{
+    margin-top: 20px;
+
+}
+.footer{
+    background:#212529;
+    padding: 0% 5% 8% 4%;
+}
+
+
+
+.derechos{
+    color:#f2f2f2;
+    font-size:23px;
+    margin-left: 850px;
+    line-height:100px;
+    float:left;
+}
+ 
+
+
+
+
